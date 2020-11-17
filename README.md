@@ -96,7 +96,7 @@ Github projects of interest to me
 **Go**, BSD 3-Clause "New" or "Revised" License
 
 ---
-## Hanzi
+## Hanzi (漢字)
 ### kage-engine [(kamichikoichi/kage-engine)](https://github.com/kamichikoichi/kage-engine)
 **
 
@@ -233,7 +233,7 @@ Github projects of interest to me
 **C**, Other License
 
 ---
-## UI
+## Web UI
 ### dock-spawn [(coderespawn/dock-spawn)](https://github.com/coderespawn/dock-spawn)
 *Dock Spawn is a web based dock layout engine that aids in creating flexible user interfaces by enabling panels to be docked on the screen similar to Visual Studio IDE*
 
