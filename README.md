@@ -32,10 +32,6 @@ I was misusing Github's *Fork* as a way of bookmarking projects.  However, my re
 **C#**, MIT License
 ### AspNetCoreWebAPIOnly [(Ibro/AspNetCoreWebAPIOnly)](https://github.com/Ibro/AspNetCoreWebAPIOnly)
 **
-### NETCoreBBS [(linezero/NETCoreBBS)](https://github.com/linezero/NETCoreBBS)
-*ASP.NET Core Light forum NETCoreBBS*
-
-**C#**, MIT License
 ### RazorPagesSample [(DamianEdwards/RazorPagesSample)](https://github.com/DamianEdwards/RazorPagesSample)
 *Examples of various ways to build simple CRUD pages using ASP.NET Core Razor Pages (coming in ASP.NET Core 2.0).*
 
@@ -90,6 +86,10 @@ I was misusing Github's *Fork* as a way of bookmarking projects.  However, my re
 
 ---
 ## Forum
+### NETCoreBBS [(linezero/NETCoreBBS)](https://github.com/linezero/NETCoreBBS)
+*ASP.NET Core Light forum NETCoreBBS*
+
+**C#**, MIT License
 ### orangeforum [(s-gv/orangeforum)](https://github.com/s-gv/orangeforum)
 *A light-weight forum*
 
