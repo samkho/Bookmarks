@@ -159,7 +159,7 @@ I was misusing Github's *Fork* as a way of bookmarking projects.  However, my re
 *Name Service Switch Service that uses an HTTP server as a backend.*
 
 **C**, MIT License
-### nss_http-1 [(Eun/nss_http)](https://github.com/Eun/nss_http)
+### nss_http [(Eun/nss_http)](https://github.com/Eun/nss_http)
 *Name Service Switch Service that uses an http JSON backend.*
 ### nss_ndb [(ptrrkssn/nss_ndb)](https://github.com/ptrrkssn/nss_ndb)
 *FreeBSD NSS module for BerkeleyDB access to passwd & groups databases*
