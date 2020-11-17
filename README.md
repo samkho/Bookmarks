@@ -1,5 +1,5 @@
 # Bookmarks
-Github projects of interest to me
+I was misusing Github's *Fork* as a way of bookmarking projects.  However, my repos list got way too noisy.  Making this list allows me to start deleting those forks.
 
 ---
 ## ACME
