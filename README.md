@@ -176,7 +176,7 @@ I was misusing Github's *Fork* as a way of bookmarking projects.  However, my re
 *A Linux pam-module using https and ssl client certificates for authentication*
 
 **C**, MIT License
-### pam-http-1 [(beatgammit/pam-http)](https://github.com/beatgammit/pam-http)
+### pam-http [(beatgammit/pam-http)](https://github.com/beatgammit/pam-http)
 *Simple pam module that uses HTTPS authentication*
 
 **C**, MIT License
